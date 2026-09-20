@@ -3,12 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/company/tabbio" title="Tabbio on LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/tabbio" title="Tabbio on Instagram"><img src="assets/instagram.svg" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@tabbio.com" title="Tabbio on TikTok"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.com/@tabbio" title="Tabbio on Threads"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Tabbioapp" title="Tabbio on X"><img src="assets/x.svg" alt="X" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@tabbio.com" title="Tabbio on TikTok"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiktok-dark.svg"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.com/@tabbio" title="Tabbio on Threads"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/threads-dark.svg"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Tabbioapp" title="Tabbio on X"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/x-dark.svg"><img src="assets/x.svg" alt="X" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@TabbioAPP" title="Tabbio on YouTube"><img src="assets/youtube.svg" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/tabbioapp" title="Tabbio on Facebook"><img src="assets/facebook.svg" alt="Facebook" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ahmedaldhraif" title="Ahmed AlDhraif, founder"><img src="assets/github.svg" alt="Founder on GitHub" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ahmedaldhraif" title="Ahmed AlDhraif, founder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github.svg" alt="Founder on GitHub" width="32" height="32"></picture></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmed@tabbio.com" title="Email Tabbio"><img src="assets/gmail.svg" alt="Email" width="32" height="32"></a>
 </p>
 
