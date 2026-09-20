@@ -19,9 +19,9 @@
   <a href="https://play.google.com/store/apps/details?id=com.tabbio.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tabbio on Google Play"></a>
 </p>
 
-<p align="center"><strong>One CV, one link, one source of truth. Verified, and read by recruiters, apps and any AI.</strong></p>
+<p align="center"><strong>One CV, one link, one source of truth. Verified, and read by recruiters, apps and any AI.</strong><br><a href="https://tabbio.com/ar">العربية</a> · <a href="https://tabbio.com/en">English</a></p>
 
-# [Tabbio](https://tabbio.com)
+# [Tabbio](https://tabbio.com) · تابيو
 
 Tabbio is the one CV that gets you seen: one verified CV at your own link that recruiters, apps, and any AI can read. Verified with UAE PASS in the UAE. Built for the Gulf, in Arabic and English. Tabbio was founded by [Ahmed AlDhraif](https://github.com/ahmedaldhraif), one of the most-followed HR voices in the UAE.
 
@@ -49,8 +49,6 @@ Most qualified people are invisible. Recruiters spend seconds on a PDF, and scre
 | <img src="assets/uae.svg" width="40" alt="United Arab Emirates"> | **Built in the UAE** | Abu Dhabi. Made for how hiring works in the Gulf. |
 | <img src="assets/uae-pass.png" width="40" alt="UAE PASS verified"> | **[UAE PASS verified](https://docs.tabbio.com/en/account/uae-pass)** | UAE PASS is the UAE's national digital identity, issued by the government. Only approved service providers can verify people through it, and Tabbio is one. A verified badge on a CV means a government identity check, not an email or a selfie. |
 | <img src="assets/nova.png" width="40" alt="AI ethics assessed"> | **AI ethics assessed** | 91.6% on Digital Dubai's AI Ethics Self-Assessment, September 2026. Report on request. [Full AI disclosure](https://tabbio.com/en/ai-disclosure). |
-| <img src="assets/cv.svg" width="40" alt="Free ATS-ready CV"> | **[Free ATS-ready CV](https://docs.tabbio.com/en/getting-started/plans-limits)** | Building, sharing, and downloading your CV is free. Read by recruiters, systems and any AI. |
-| <img src="assets/cv.svg" width="40" alt="Arabic-first"> | **[Arabic-first](https://docs.tabbio.com/ar)** | Full Arabic and English, right to left, built for the Gulf. |
 | <img src="https://github.com/ahmedaldhraif.png" width="40" alt="Ahmed AlDhraif, founder of Tabbio"> | **[Built by a recruiter](https://github.com/ahmedaldhraif)** | 12 years on the hiring side in the UAE before building the fix. |
 
 [Your public CV never shows your phone or email](https://docs.tabbio.com/en/account/privacy). [No user data is used to train models](https://docs.tabbio.com/en/connections/security). [The agent drafts, you approve](https://docs.tabbio.com/en/mcp/approvals). It never sends anything without you.
