@@ -1,3 +1,5 @@
+<a href="https://tabbio.com"><img src="assets/banner.svg" alt="Tabbio: the one CV that gets you seen" width="100%"></a>
+
 <p align="center"><strong>One CV, one link, one source of truth. Verified, and read by recruiters, apps and any AI.</strong></p>
 
 # Tabbio

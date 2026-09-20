@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tabbio: the one CV that gets you seen">
+  <rect width="1200" height="300" rx="24" fill="#5A2AFF"/>
+  <circle cx="1060" cy="150" r="230" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="1120" cy="60" r="120" fill="#FFFFFF" fill-opacity="0.05"/>
+  <g transform="translate(72,90)">
+    <rect width="120" height="120" rx="28" fill="#FFFFFF"/>
+    <g transform="translate(24,17) scale(0.68)">
+      <path fill="#5A2AFF" d="M65.07,99.14v-33.31h29.9v-23.95h-29.9V0H22.24L0,22.24h0v43.59h41.11v29.2c0,15.5,14.88,28.06,33.23,28.06h31.46v-23.95h-40.74ZM8.68,41.87v-16.49h16.35V8.4h16.09v33.48H8.68Z"/>
+    </g>
+  </g>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="228" y="128" font-size="56" font-weight="700">Tabbio</text>
+    <text x="228" y="176" font-size="26" font-weight="500" fill-opacity="0.92">The one CV that gets you seen.</text>
+    <text x="228" y="226" font-size="22" font-weight="400" fill-opacity="0.8">One verified CV at your own link. Built for the Gulf, in Arabic and English.</text>
+  </g>
+</svg>
