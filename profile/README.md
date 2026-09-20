@@ -115,7 +115,7 @@ Everything else Tabbio builds is private. This is the one public repo.
 
 ## The founder
 
-[Ahmed AlDhraif](https://github.com/ahmedaldhraif), founder of Tabbio and one of the most-followed HR voices in the UAE. 12 years on the hiring side in Abu Dhabi. [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [X](https://x.com/AhmedAlDhraif) · [Threads](https://www.threads.com/@ahmedaldhraif) · [Instagram](https://www.instagram.com/ahmedaldhraif) · [TikTok](https://www.tiktok.com/@ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com)
+[Ahmed AlDhraif](https://github.com/ahmedaldhraif), founder of Tabbio and one of the most-followed HR voices in the UAE. 12 years on the hiring side in Abu Dhabi. [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [X](https://x.com/AhmedAlDhraif) · [Threads](https://www.threads.com/@ahmedaldhraif) · [Instagram](https://www.instagram.com/ahmedaldhraif) · [TikTok](https://www.tiktok.com/@ahmedaldhraif) · [YouTube](https://www.youtube.com/@ahmedaldhraif) · [Facebook](https://www.facebook.com/ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com)
 
 ## Everything Tabbio, in one place
 
