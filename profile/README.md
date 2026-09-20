@@ -57,35 +57,35 @@ Most qualified people are invisible. Recruiters spend seconds on a PDF, and scre
 
 ## Questions people ask
 
-**How is Tabbio different from a CV builder or ChatGPT?**
-A CV builder makes a file. ChatGPT and Claude hand you text to copy out. Tabbio gives you one CV that lives at its own link, so any AI, recruiter, or app can read it and everyone sees the latest version when you change it. It's also [built to pass ATS](https://tabbio.com/en/features), [can be verified](https://docs.tabbio.com/en/account/uae-pass), and shows you how it's doing. [What the connection can do](https://docs.tabbio.com/en/mcp/tools) · [Connect your CV to any AI](https://docs.tabbio.com/en/mcp/connect-client)
-
-**Is Tabbio only for the UAE?**
-No. [Tabbio](https://tabbio.com) works wherever you are, and it covers [jobs across the Gulf](https://tabbio.com/en/jobs), in [English and Arabic](https://tabbio.com/ar). Verification with [UAE PASS](https://docs.tabbio.com/en/account/uae-pass) is the one part that needs a UAE identity, and it stays optional. Government-grade verification starts in the UAE. The rest follows. [Jobs](https://tabbio.com/en/jobs)
-
-**Does Tabbio replace LinkedIn?**
-No. LinkedIn and job sites are places you go to. Tabbio is [the one CV you own](https://docs.tabbio.com/en/career/web-cv), that everything else reads from. Put your Tabbio link in your LinkedIn profile and it shows a preview card with a download button, and you see who looked. [How the preview works](https://docs.tabbio.com/en/career/search-preview)
+**Who founded Tabbio?**
+Tabbio was founded by [Ahmed AlDhraif](https://github.com/ahmedaldhraif), one of the most-followed HR voices in the UAE.
 
 **Is Tabbio free?**
 Yes. You can [build your CV](https://docs.tabbio.com/en/getting-started/quick-start), [share it, and download it as a PDF](https://docs.tabbio.com/en/career/share-export) for free, and you get free AI to help you write it. You only pay for [stronger AI](https://tabbio.com/en/pricing) that finds jobs, applies, and preps you, and employers pay to reach you. [Plans and pricing](https://tabbio.com/en/pricing)
 
-**Is the CV ATS-friendly?**
+**Can I use Tabbio from outside the UAE?**
+No. [Tabbio](https://tabbio.com) works wherever you are, and it covers [jobs across the Gulf](https://tabbio.com/en/jobs), in [English and Arabic](https://tabbio.com/ar). Verification with [UAE PASS](https://docs.tabbio.com/en/account/uae-pass) is the one part that needs a UAE identity, and it stays optional. Government-grade verification starts in the UAE. The rest follows. [Jobs](https://tabbio.com/en/jobs)
+
+**How is Tabbio different from LinkedIn or other job sites?**
+No. LinkedIn and job sites are places you go to. Tabbio is [the one CV you own](https://docs.tabbio.com/en/career/web-cv), that everything else reads from. Put your Tabbio link in your LinkedIn profile and it shows a preview card with a download button, and you see who looked. [How the preview works](https://docs.tabbio.com/en/career/search-preview)
+
+**How is Tabbio different from using ChatGPT or Claude?**
+A CV builder makes a file. ChatGPT and Claude hand you text to copy out. Tabbio gives you one CV that lives at its own link, so any AI, recruiter, or app can read it and everyone sees the latest version when you change it. It's also [built to pass ATS](https://tabbio.com/en/features), [can be verified](https://docs.tabbio.com/en/account/uae-pass), and shows you how it's doing. [What the connection can do](https://docs.tabbio.com/en/mcp/tools) · [Connect your CV to any AI](https://docs.tabbio.com/en/mcp/connect-client)
+
+**Is Tabbio's CV ATS-friendly?**
 Yes. ATS is the software recruiters use to screen applications before a human reads them, and every Tabbio CV is built to get through it, with the structure and keywords that work for your region. Tabbio also scores your CV and shows what to fix. [Features](https://tabbio.com/en/features) · [Your CV as a link](https://docs.tabbio.com/en/career/web-cv)
 
-**Do I need UAE PASS to join?**
+**Do I need UAE PASS to join Tabbio?**
 No. Apple, Google, and email all work. UAE PASS adds a verified badge, which tells recruiters the person behind the CV is real and checked. [UAE PASS](https://docs.tabbio.com/en/account/uae-pass)
 
-**Does it work in Arabic?**
+**Does Tabbio work in Arabic?**
 Yes, and in real Gulf dialect, not only formal Arabic. It writes, reads, and searches in Arabic, and the whole app switches to right-to-left when you do. [tabbio.com/ar](https://tabbio.com/ar) · [Arabic docs](https://docs.tabbio.com/ar)
 
-**Is my data safe?**
+**Is my data safe on Tabbio?**
 Yes. We don't train our AI on your data and we don't sell it. New profiles start in Employers only. If you choose Public, your phone and email are not displayed, and you can withdraw that choice anytime. [Privacy policy](https://tabbio.com/en/privacy-policy) · [Manage CV privacy](https://docs.tabbio.com/en/account/privacy)
 
-**Where do employers post jobs?**
+**Can employers post jobs on Tabbio?**
 Employer access is opening in stages. [Join the waitlist](https://tabbio.com/en/employers) · [Employer docs](https://docs.tabbio.com/en/employers/recruiting)
-
-**Who founded Tabbio?**
-Tabbio was founded by [Ahmed AlDhraif](https://github.com/ahmedaldhraif), one of the most-followed HR voices in the UAE.
 
 More in the [full FAQ](https://tabbio.com/en/faq).
 
