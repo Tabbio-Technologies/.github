@@ -25,12 +25,16 @@ Most qualified people are invisible. Recruiters spend seconds on a PDF, and scre
 
 ## Trust
 
-**[Verified with UAE PASS in the UAE](https://docs.tabbio.com/en/account/uae-pass).** UAE PASS is the UAE's national digital identity, issued by the government. Only approved service providers can verify people through it, and Tabbio is one. A verified badge on a Tabbio CV means the person behind it was checked against a government identity, not an email address or a selfie. Government-grade identity, starting with UAE PASS in the UAE.
+| | | |
+|---|---|---|
+| <img src="assets/uae.svg" width="40" alt="United Arab Emirates"> | **Built in the UAE** | Abu Dhabi. Made for how hiring works in the Gulf. |
+| <img src="assets/tabbio-mark.svg" width="40" alt="UAE PASS verified"> | **[UAE PASS verified](https://docs.tabbio.com/en/account/uae-pass)** | UAE PASS is the UAE's national digital identity, issued by the government. Only approved service providers can verify people through it, and Tabbio is one. A verified badge on a CV means a government identity check, not an email or a selfie. |
+| <img src="assets/tabbio-mark.svg" width="40" alt="AI ethics assessed"> | **AI ethics assessed** | 91.6% on Digital Dubai's AI Ethics Self-Assessment, September 2026. Report on request. [Full AI disclosure](https://tabbio.com/en/ai-disclosure). |
+| <img src="assets/tabbio-mark.svg" width="40" alt="Free ATS-ready CV"> | **[Free ATS-ready CV](https://docs.tabbio.com/en/getting-started/plans-limits)** | Building, sharing, and downloading your CV is free. Read by recruiters, systems and any AI. |
+| <img src="assets/tabbio-mark.svg" width="40" alt="Arabic-first"> | **[Arabic-first](https://docs.tabbio.com/ar)** | Full Arabic and English, right to left, built for the Gulf. |
+| <img src="assets/tabbio-mark.svg" width="40" alt="Built by a recruiter"> | **[Built by a recruiter](https://github.com/ahmedaldhraif)** | 12 years on the hiring side in the UAE before building the fix. |
 
-- Scored 91.6% on Digital Dubai's AI Ethics Self-Assessment (September 2026). Report available on request.
-- [Your public CV never shows your phone or email](https://docs.tabbio.com/en/account/privacy). People message you through Tabbio.
-- [No user data is used to train models](https://docs.tabbio.com/en/connections/security). Full AI disclosure at [tabbio.com/ai-disclosure](https://tabbio.com/ai-disclosure).
-- [The agent drafts, you approve](https://docs.tabbio.com/en/mcp/approvals). It never sends anything without you.
+[Your public CV never shows your phone or email](https://docs.tabbio.com/en/account/privacy). [No user data is used to train models](https://docs.tabbio.com/en/connections/security). [The agent drafts, you approve](https://docs.tabbio.com/en/mcp/approvals). It never sends anything without you.
 
 ## Ask an AI what Tabbio is
 
