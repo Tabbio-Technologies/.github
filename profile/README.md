@@ -1,4 +1,18 @@
-<a href="https://tabbio.com"><img src="assets/banner.svg" alt="Tabbio: the one CV that gets you seen" width="100%"></a>
+<a href="https://tabbio.com"><img src="assets/banner.png" alt="Create your CV in minutes at yourname.tabbio.com. Share it, download it for free." width="100%"></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/tabbio" title="Tabbio on LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tabbio" title="Tabbio on Instagram"><img src="assets/instagram.svg" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ahmedaldhraif" title="Ahmed AlDhraif, founder"><img src="assets/github.svg" alt="Founder on GitHub" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahmed@tabbio.com" title="Email Tabbio"><img src="assets/gmail.svg" alt="Email" width="32" height="32"></a>
+</p>
+
+<p align="center">
+  <a href="https://tabbio.com"><img src="https://img.shields.io/badge/tabbio.com-5A2AFF?style=for-the-badge&logoColor=white" alt="tabbio.com"></a>
+  <a href="https://docs.tabbio.com"><img src="https://img.shields.io/badge/Docs-0A0A0A?style=for-the-badge" alt="Tabbio docs"></a>
+  <a href="https://apps.apple.com/app/id6755083658"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Tabbio on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.tabbio.app"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Tabbio on Google Play"></a>
+</p>
 
 <p align="center"><strong>One CV, one link, one source of truth. Verified, and read by recruiters, apps and any AI.</strong></p>
 
@@ -56,13 +70,25 @@ Employer access is opening in stages. [Join the waitlist](https://tabbio.com/en/
 
 [Web](https://tabbio.com) · [iOS](https://apps.apple.com/app/id6755083658) · [Android](https://play.google.com/store/apps/details?id=com.tabbio.app) · [Arabic](https://tabbio.com/ar)
 
-## Open source from Tabbio
+## Help and guides
+
+- [Quick start](https://docs.tabbio.com/en/getting-started/quick-start): your CV at your own link in minutes
+- [Docs](https://docs.tabbio.com) in [English](https://docs.tabbio.com/en) and [Arabic](https://docs.tabbio.com/ar)
+- [FAQ](https://tabbio.com/en/faq) · [Plans and limits](https://docs.tabbio.com/en/getting-started/plans-limits) · [Support](https://docs.tabbio.com/en/reference/support)
+- [Video guides](https://github.com/ahmedaldhraif/tabbio-quick-guides): 20 short how-to videos, English and Arabic, open source
+- [Connect your CV to ChatGPT, Claude or Cursor](https://docs.tabbio.com/en/mcp/connect-client)
+
+## Open source
 
 | Repo | What it is |
 |---|---|
-| [tabbio-quick-guides](https://github.com/ahmedaldhraif/tabbio-quick-guides) | 20 short how-to videos, English and Arabic, with an accessible video gallery |
-| [nova-studio](https://github.com/ahmedaldhraif/nova-studio) | Browser-based SVG animation and export studio for Nova, the Tabbio mascot |
-| [tabbio-affiliate](https://github.com/ahmedaldhraif/tabbio-affiliate) | Affiliate partner program frontend, built on RefRef |
+| [tabbio-quick-guides](https://github.com/ahmedaldhraif/tabbio-quick-guides) | 20 short how-to videos for Tabbio, English and Arabic, 9:16, with an accessible video gallery |
+
+Everything else Tabbio builds is private. This is the one public repo.
+
+## The founder
+
+[Ahmed AlDhraif](https://github.com/ahmedaldhraif), founder of Tabbio and one of the most-followed HR voices in the UAE. 12 years on the hiring side in Abu Dhabi. [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [Instagram](https://www.instagram.com/ahmedaldhraif) · [TikTok](https://www.tiktok.com/@ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com)
 
 ## Everything Tabbio, in one place
 
@@ -71,9 +97,10 @@ Employer access is opening in stages. [Join the waitlist](https://tabbio.com/en/
 | **Product** | [tabbio.com](https://tabbio.com) · [Docs](https://docs.tabbio.com) · [Quick start](https://docs.tabbio.com/en/getting-started/quick-start) · [Features](https://tabbio.com/en/features) · [Pricing](https://tabbio.com/en/pricing) · [FAQ](https://tabbio.com/en/faq) · [Mobile apps](https://tabbio.com/en/mobile) |
 | **Jobs and hiring** | [Find jobs](https://tabbio.com/en/jobs) · [Employer waitlist](https://tabbio.com/en/employers) · [Employer docs](https://docs.tabbio.com/en/employers/recruiting) · [Companies hiring on Tabbio](https://tabbio.com/en/companies) |
 | **Partners and developers** | [Partner program](https://tabbio.com/en/partners) · [Developers: connect a verified CV to any AI](https://tabbio.com/en/developers) · [MCP docs](https://docs.tabbio.com/en/mcp/overview) |
-| **Company** | [About](https://tabbio.com/en/about) · [AI disclosure](https://tabbio.com/en/ai-disclosure) · [Founder, Ahmed AlDhraif](https://github.com/ahmedaldhraif) |
+| **Company** | [About](https://tabbio.com/en/about) · [AI disclosure](https://tabbio.com/en/ai-disclosure) · [Privacy policy](https://tabbio.com/en/privacy-policy) · [Blog](https://tabbio.com/en/blog) |
 | **Arabic** | [tabbio.com/ar](https://tabbio.com/ar) · [docs.tabbio.com/ar](https://docs.tabbio.com/ar) |
 | **Social** | [LinkedIn](https://www.linkedin.com/company/tabbio) · [Instagram](https://www.instagram.com/tabbio) |
+| **Founder** | [Ahmed AlDhraif on GitHub](https://github.com/ahmedaldhraif) · [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com) |
 | **Download** | [App Store](https://apps.apple.com/app/id6755083658) · [Google Play](https://play.google.com/store/apps/details?id=com.tabbio.app) |
 
 <p align="center"><strong>Stop sending CVs. Send your Tabbio.</strong></p>
