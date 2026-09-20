@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/company/tabbio" title="Tabbio on LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/tabbio" title="Tabbio on Instagram"><img src="assets/instagram.svg" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@tabbio.com" title="Tabbio on TikTok"><img src="assets/tiktok.svg" alt="TikTok" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.threads.com/@tabbio" title="Tabbio on Threads"><img src="assets/threads.svg" alt="Threads" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Tabbioapp" title="Tabbio on X"><img src="assets/x.svg" alt="X" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@TabbioAPP" title="Tabbio on YouTube"><img src="assets/youtube.svg" alt="YouTube" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;
@@ -20,7 +21,7 @@
 
 <p align="center"><strong>One CV, one link, one source of truth. Verified, and read by recruiters, apps and any AI.</strong></p>
 
-# Tabbio
+# [Tabbio](https://tabbio.com)
 
 Tabbio is the one CV that gets you seen: one verified CV at your own link that recruiters, apps, and any AI can read. Verified with UAE PASS in the UAE. Built for the Gulf, in Arabic and English. Tabbio was founded by [Ahmed AlDhraif](https://github.com/ahmedaldhraif), one of the most-followed HR voices in the UAE.
 
@@ -53,6 +54,28 @@ Most qualified people are invisible. Recruiters spend seconds on a PDF, and scre
 | <img src="https://github.com/ahmedaldhraif.png" width="40" alt="Ahmed AlDhraif, founder of Tabbio"> | **[Built by a recruiter](https://github.com/ahmedaldhraif)** | 12 years on the hiring side in the UAE before building the fix. |
 
 [Your public CV never shows your phone or email](https://docs.tabbio.com/en/account/privacy). [No user data is used to train models](https://docs.tabbio.com/en/connections/security). [The agent drafts, you approve](https://docs.tabbio.com/en/mcp/approvals). It never sends anything without you.
+
+## Questions people ask
+
+**What is Tabbio?**
+Tabbio is the one CV that gets you seen: one verified CV you keep at your own link, built for the Gulf, that recruiters, apps, and any AI can read.
+
+**How is it different from a CV builder or ChatGPT?**
+A CV builder makes a file. Tabbio is the one CV everything reads from, verified with UAE PASS, and it connects to any AI so you stop pasting your CV into every chat.
+
+**Is the PDF CV finished?**
+The PDF CV is the problem: ten versions, all slightly wrong, and AI can't read any of them. Tabbio replaces it with one verified CV at your own link.
+
+**Is Tabbio free?**
+Yes. Building, sharing, and downloading your CV is free. Paid plans add stronger AI and an agent that finds jobs and applies for you.
+
+**What is a verified CV in the UAE?**
+A verified CV is checked against UAE PASS, the government identity, so a recruiter knows the person is real. Tabbio adds that badge.
+
+**Who founded Tabbio?**
+Tabbio was founded by [Ahmed AlDhraif](https://github.com/ahmedaldhraif), one of the most-followed HR voices in the UAE.
+
+More in the [FAQ](https://tabbio.com/en/faq).
 
 ## Ask an AI what Tabbio is
 
@@ -103,7 +126,7 @@ Everything else Tabbio builds is private. This is the one public repo.
 | **Partners and developers** | [Partner program](https://tabbio.com/en/partners) · [Developers: connect a verified CV to any AI](https://tabbio.com/en/developers) · [MCP docs](https://docs.tabbio.com/en/mcp/overview) |
 | **Company** | [About](https://tabbio.com/en/about) · [AI disclosure](https://tabbio.com/en/ai-disclosure) · [Privacy policy](https://tabbio.com/en/privacy-policy) · [Blog](https://tabbio.com/en/blog) |
 | **Arabic** | [tabbio.com/ar](https://tabbio.com/ar) · [docs.tabbio.com/ar](https://docs.tabbio.com/ar) |
-| **Social** | [LinkedIn](https://www.linkedin.com/company/tabbio) · [Instagram](https://www.instagram.com/tabbio) · [Threads](https://www.threads.com/@tabbio) · [X](https://x.com/Tabbioapp) · [YouTube](https://www.youtube.com/@TabbioAPP) · [Facebook](https://www.facebook.com/tabbioapp) |
+| **Social** | [LinkedIn](https://www.linkedin.com/company/tabbio) · [Instagram](https://www.instagram.com/tabbio) · [TikTok](https://www.tiktok.com/@tabbio.com) · [Threads](https://www.threads.com/@tabbio) · [X](https://x.com/Tabbioapp) · [YouTube](https://www.youtube.com/@TabbioAPP) · [Facebook](https://www.facebook.com/tabbioapp) |
 | **Founder** | [Ahmed AlDhraif on GitHub](https://github.com/ahmedaldhraif) · [LinkedIn](https://www.linkedin.com/in/ahmedaldhraif) · [X](https://x.com/AhmedAlDhraif) · [Threads](https://www.threads.com/@ahmedaldhraif) · [ahmedaldhraif.com](https://ahmedaldhraif.com) |
 | **Download** | [App Store](https://apps.apple.com/app/id6755083658) · [Google Play](https://play.google.com/store/apps/details?id=com.tabbio.app) |
 
